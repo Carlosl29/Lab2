@@ -58,10 +58,10 @@ table {
 body {
 	font-family: 'Arvo', sans-serif;
 	text-align: center;
-	padding-left: 40%;
-	padding-right: 40%;
+	padding-left: 5em;
+	padding-right: 5em;
 	padding-top: 15%;
-	background-image: /pictures/background.jpg; 
+	background-image: url("/pictures/background.jpg"); 
 }
 
 form {
