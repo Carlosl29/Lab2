@@ -58,3 +58,19 @@ table {
 body {
 	font-family: 'Arvo', sans-serif;
 }
+
+form {
+	padding-left: 40%;
+	padding-right: 40%;
+	padding-top: 10%;
+
+}
+
+h1 {
+	font-size: 1.25em;
+}
+
+p {
+	padding-bottom: .3125em;
+	padding-top: .625em;
+}
