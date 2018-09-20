@@ -57,13 +57,16 @@ table {
 
 body {
 	font-family: 'Arvo', sans-serif;
+	text-align: center;
+	padding-left: 40%;
+	padding-right: 40%;
+	padding-top: 15%;
+	background-image: /pictures/background.jpg; 
 }
 
 form {
-	padding-left: 40%;
-	padding-right: 40%;
-	padding-top: 10%;
-
+	padding: 10%;
+	background-color: red;
 }
 
 h1 {
