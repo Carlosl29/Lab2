@@ -50,6 +50,7 @@ table {
 /* End of Eric Meyer css reset */
 /**************************************************/
 
-div.frmBox {
-	font-family: arvo
+@font-face {
+	font-family: arvo;
+	src: url('/arvoFonts/Arvo-Regular.ttf');
 }
