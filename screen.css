@@ -54,3 +54,7 @@ table {
 	font-family: arvo;
 	src: url('/arvoFonts/Arvo-Regular.ttf');
 }
+
+body {
+	font-family: 'Arvo', sans-serif;
+}
